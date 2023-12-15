@@ -1,0 +1,13 @@
+{
+    "url": "localhost:3001",
+    "port": "3001",
+    "host": " ",
+    "permission": {
+        "user": "user"
+    },
+    "routes": {
+        "routes": "/user",
+        "product": "/product"
+    },
+    "Mysql": "mysql://root:@"
+}
